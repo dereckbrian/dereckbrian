@@ -36,7 +36,7 @@ Sou apaixonado por tecnologia e desenvolvimento de softwares. Estou sempre busca
 ### 🛠 Projetos em Destaque
 
 - 🔐 **API de Autenticação e Registro**: API REST desenvolvida com **Java e Spring Boot**. Focada no gerenciamento de usuários, implementa controle de acesso e segurança com **Spring Security**, utiliza o padrão **DTO** para transferência de dados e adota a arquitetura em camadas (Controller, Service, Repository).
-- 🎓 **Sistema Automatizado de Manutenção de Piscinas (TCC)**: Sistema IoT autônomo para monitoramento da qualidade da água. [cite_start]Integra hardware (Arduino/Raspberry Pi) [cite: 2337] [cite_start]a uma API REST construída com **Java e Spring Boot**, utilizando **PostgreSQL** para persistência e **React** no Front-End.
+- 🎓 **Sistema Automatizado de Manutenção de Piscinas (TCC)**: Sistema IoT autônomo para monitoramento da qualidade da água. Integra hardware (Arduino/Raspberry Pi) a uma API REST construída com **Java e Spring Boot**, utilizando **PostgreSQL** para persistência e **React** no Front-End.
 - 🍃 **Ecossistema Spring**: Repositórios contendo estudos, testes e aplicações desenvolvidas durante meu aprofundamento prático no framework.
 
 ---
