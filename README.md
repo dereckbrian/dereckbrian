@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e desenvolvimento de softwares. Estou sempre busca
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,github,html,css,js,postgres&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,git,github,react,postgres&theme=light" />
   </a>
 </div>
 
