@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:4b6cb7,100:182848&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=120&section=header"/>
 
 # 👨🏻‍💻 Olá, eu sou o Dereck! 👋
 
@@ -53,4 +53,4 @@ Sou apaixonado por tecnologia e desenvolvimento de softwares. Estou sempre busca
 📧 **Email:** dereckbriian@gmail.com
 💼 **LinkedIn:** [linkedin.com/in/dereck-brian](https://www.linkedin.com/in/dereck-brian-5b36bb23a/)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:4b6cb7,100:182848&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=120&section=footer"/>
