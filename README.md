@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=120&section=header"/>
 
-# 👨🏻‍💻 Olá, eu sou o Dereck! 👋
+# 👨🏻‍💻 Dereck Brian
 
 **Desenvolvedor Back-End | Java e Spring**
 
